@@ -18,8 +18,8 @@ const CONFIG = {
   ],
   // blog setting (required)
   blog: {
-    title: "morethan-log",
-    description: "welcome to morethan-log!",
+    title: "chanchanee-log",
+    description: "personal log of crypto, NFTs, dev things",
     theme: "auto", // ['light', 'dark', 'auto']
   },
 
